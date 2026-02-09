@@ -1,1 +1,1 @@
-<img src="002.jpg" alt="照片說明" width="600">
+<img src="001.png" alt="照片說明" width="600">
